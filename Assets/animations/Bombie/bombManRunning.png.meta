@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: 79712014bca5e734d918bdf9f7be84ff
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7575743110965780336
+    second: bombManRunning_0
+  - first:
+      213: 1112358310582872775
+    second: bombManRunning_1
+  - first:
+      213: 6935026071351622661
+    second: bombManRunning_2
+  - first:
+      213: -3048977843014941070
+    second: bombManRunning_3
+  - first:
+      213: -3540015046397477208
+    second: bombManRunning_4
+  - first:
+      213: 3307651605926122506
+    second: bombManRunning_5
+  - first:
+      213: -918464217689849428
+    second: bombManRunning_6
+  - first:
+      213: -6489919119081157549
+    second: bombManRunning_7
+  - first:
+      213: 8353117864376449223
+    second: bombManRunning_8
+  - first:
+      213: 2870252228898944080
+    second: bombManRunning_9
+  - first:
+      213: -5840860114790215214
+    second: bombManRunning_10
+  - first:
+      213: 2705238124296710544
+    second: bombManRunning_11
+  - first:
+      213: 231711407686796672
+    second: bombManRunning_12
+  - first:
+      213: 2650426519422816100
+    second: bombManRunning_13
+  - first:
+      213: -898050053775945565
+    second: bombManRunning_14
+  - first:
+      213: 627336192280185553
+    second: bombManRunning_15
+  - first:
+      213: -7179976280373554930
+    second: bombManRunning_16
+  - first:
+      213: 7196737913798212570
+    second: bombManRunning_17
+  - first:
+      213: -1617003180132443255
+    second: bombManRunning_18
+  - first:
+      213: -5376711671930490982
+    second: bombManRunning_19
+  - first:
+      213: 4103428331676251499
+    second: bombManRunning_20
+  - first:
+      213: -571950460694832648
+    second: bombManRunning_21
+  - first:
+      213: 4130042848428348629
+    second: bombManRunning_22
+  - first:
+      213: 3244537474569756038
+    second: bombManRunning_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bombManRunning_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 090a54157cd8dd690800000000000000
+      internalID: -7575743110965780336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_1
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7caee3d6df3ef6f00800000000000000
+      internalID: 1112358310582872775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_2
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7cf2f7792e3060800000000000000
+      internalID: 6935026071351622661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_3
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 276ce035ecadfa5d0800000000000000
+      internalID: -3048977843014941070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_4
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aeb0f332175fdec0800000000000000
+      internalID: -3540015046397477208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_5
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a041af36c9327ed20800000000000000
+      internalID: 3307651605926122506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca180b509a5f043f0800000000000000
+      internalID: -918464217689849428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cc62e32fc2fe5a0800000000000000
+      internalID: -6489919119081157549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_8
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c8b021e07c3ce370800000000000000
+      internalID: 8353117864376449223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_9
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0547b47e13f25d720800000000000000
+      internalID: 2870252228898944080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_10
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d19e2bfba811fea0800000000000000
+      internalID: -5840860114790215214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_11
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 099ac87bdbfea8520800000000000000
+      internalID: 2705238124296710544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085c3913c44373300800000000000000
+      internalID: 231711407686796672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_13
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46fc87970e438c420800000000000000
+      internalID: 2650426519422816100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_14
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a01a22fb3c7983f0800000000000000
+      internalID: -898050053775945565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_15
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da4b9f61feb4b800800000000000000
+      internalID: 627336192280185553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_16
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e019a983d999b5c90800000000000000
+      internalID: -7179976280373554930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_17
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adb378da003ffd360800000000000000
+      internalID: 7196737913798212570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98b5787cc204f89e0800000000000000
+      internalID: -1617003180132443255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9fe2eea8351265b0800000000000000
+      internalID: -5376711671930490982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_20
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6536d6a35e42f830800000000000000
+      internalID: 4103428331676251499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_21
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f9d92916160018f0800000000000000
+      internalID: -571950460694832648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_22
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4d6b7b61cd05930800000000000000
+      internalID: 4130042848428348629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bombManRunning_23
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d5c2094a9e60d20800000000000000
+      internalID: 3244537474569756038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

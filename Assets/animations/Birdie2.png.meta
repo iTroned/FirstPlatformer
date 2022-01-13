@@ -1,0 +1,691 @@
+fileFormatVersion: 2
+guid: e5f77590a2fdd504589267d36789a451
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7177336304323949591
+    second: Birdie2_0
+  - first:
+      213: 4310419524485547824
+    second: Birdie2_1
+  - first:
+      213: -4149951183785535544
+    second: Birdie2_2
+  - first:
+      213: 6306556949112241831
+    second: Birdie2_3
+  - first:
+      213: -5094457734866618092
+    second: Birdie2_4
+  - first:
+      213: -6147214545868010725
+    second: Birdie2_5
+  - first:
+      213: -5646842100243784655
+    second: Birdie2_6
+  - first:
+      213: 7539685437409294906
+    second: Birdie2_7
+  - first:
+      213: 6164125980024879333
+    second: Birdie2_8
+  - first:
+      213: -2106018883285638729
+    second: Birdie2_9
+  - first:
+      213: 4073101933174710074
+    second: Birdie2_10
+  - first:
+      213: 1511757558102443615
+    second: Birdie2_11
+  - first:
+      213: -6875147288228562470
+    second: Birdie2_12
+  - first:
+      213: -6098167120499217216
+    second: Birdie2_13
+  - first:
+      213: -8508639468105781764
+    second: Birdie2_14
+  - first:
+      213: 7877561623903708958
+    second: Birdie2_15
+  - first:
+      213: 5192139093903130650
+    second: Birdie2_16
+  - first:
+      213: 1975711975799064465
+    second: Birdie2_17
+  - first:
+      213: 117809595813974269
+    second: Birdie2_18
+  - first:
+      213: -7296738987367638661
+    second: Birdie2_19
+  - first:
+      213: 4376151949343323878
+    second: Birdie2_20
+  - first:
+      213: -844009700780362553
+    second: Birdie2_21
+  - first:
+      213: -8786483719857927471
+    second: Birdie2_22
+  - first:
+      213: 8272660661241659132
+    second: Birdie2_23
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Birdie2_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7147eb477550b9360800000000000000
+      internalID: 7177336304323949591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_1
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0378edd48bfa1db30800000000000000
+      internalID: 4310419524485547824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_2
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7504fb2696866c0800000000000000
+      internalID: -4149951183785535544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_3
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae3b93b124658750800000000000000
+      internalID: 6306556949112241831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_4
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419b8068ea9dc49b0800000000000000
+      internalID: -5094457734866618092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_5
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 2997
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b4c6b90f4b0baa0800000000000000
+      internalID: -6147214545868010725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c9f30370362a1b0800000000000000
+      internalID: -5646842100243784655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_7
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a77f655f752a860800000000000000
+      internalID: 7539685437409294906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_8
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8b32e7bef5b8550800000000000000
+      internalID: 6164125980024879333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_9
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1ae7bdbfae5c2e0800000000000000
+      internalID: -2106018883285638729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_10
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3fd5d4c0a0968830800000000000000
+      internalID: 4073101933174710074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_11
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 1998
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56453d4d77daf410800000000000000
+      internalID: 1511757558102443615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad975aaa7f19690a0800000000000000
+      internalID: -6875147288228562470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_13
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc6da93055fe5ba0800000000000000
+      internalID: -6098167120499217216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_14
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdafa50c7d3be980800000000000000
+      internalID: -8508639468105781764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_15
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17a7015f88b25d60800000000000000
+      internalID: 7877561623903708958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_16
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10c38c2ffe2e0840800000000000000
+      internalID: 5192139093903130650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_17
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 999
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1970dfff2932b6b10800000000000000
+      internalID: 1975711975799064465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df0df95043b82a100800000000000000
+      internalID: 117809595813974269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_19
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79553ffc86ccba90800000000000000
+      internalID: -7296738987367638661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_20
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6fdb713073bbc30800000000000000
+      internalID: 4376151949343323878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_21
+      rect:
+        serializedVersion: 2
+        x: 2997
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c4b00e16a97944f0800000000000000
+      internalID: -844009700780362553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_22
+      rect:
+        serializedVersion: 2
+        x: 3996
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da8d1d0c93201680800000000000000
+      internalID: -8786483719857927471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Birdie2_23
+      rect:
+        serializedVersion: 2
+        x: 4995
+        y: 0
+        width: 999
+        height: 999
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfe38ac7a056ec270800000000000000
+      internalID: 8272660661241659132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
